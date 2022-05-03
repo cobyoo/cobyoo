@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=cobyoo&fontSize=70&animation=twinkling)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobyoo?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobyoo&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
