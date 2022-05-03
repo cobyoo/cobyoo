@@ -12,6 +12,7 @@
   <!--프론트-->
   <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=white">
   <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
+  <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
