@@ -1,6 +1,5 @@
 <div align=center>
 <!--소개-->
-<br>
 <h3>:raised_hands: Introduction </h3>
 안녕하세요! AI 개발자 유승현입니다. 
 <br/><br/><br/>
