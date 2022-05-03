@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/cobyoo-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+(https://github-readme-stats.vercel.app/api?username=cobyoo&show_icons=true&theme=radical)
 <!--
 **cobyoo/cobyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
