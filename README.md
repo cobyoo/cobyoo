@@ -5,7 +5,7 @@
 <h3>:raised_hands: Introduction </h3>
 안녕하세요! 공부중인 신입개발자입니다. 
 <br/><br/><br/>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobyoo&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <!--기술스택-->
   <h3>:four_leaf_clover:Skill </h3>
