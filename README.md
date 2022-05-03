@@ -8,7 +8,7 @@
 <br/><br/><br/>
 
 <!--기술스택-->
-  <h3>:four_leaf_clover: Skill </h3>
+  <h3>:four_leaf_clover: Skills </h3>
   <!--프론트-->
   <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=white">
   <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
