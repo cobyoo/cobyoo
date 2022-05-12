@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache Kafka&logoColor=black">
-   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache Kafka&logoColor=black">
 <br><br>
 
 <h3 align="center"> 📋 Used </h3>
