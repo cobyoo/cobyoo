@@ -1,28 +1,15 @@
-<div align=center>
-<!--소개-->
-<h3>:raised_hands: Introduction </h3>
-안녕하세요! AI 개발자 유승현입니다. 
-<br/><br/><br/>
+```
+빅데이터 인메모리 처리에 대한 높은 이해와 경험을 바탕으로 효과적인 데이터 처리 및 데이터 분석을 하고 있습니다.
+특히 아파치 스파크를 활용한 전처리 및 대용량 데이터를 빠르게 처리하는 개발에 강점을 가지고 있습니다.
+```
 
-<!--기술스택-->
-  <h3>:four_leaf_clover: Skills </h3>
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=white">
-  <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
-  <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache Kafka&logoColor=black">
-<br><br>
+- 🔭 아파치 스파크로 대용량 데이터를 효과적으로 빠르게 처리하는 개발하고 있습니다.
+- 🌱 최근에는 아파치 카프카와 MongoDB를 공부하고 있습니다.
+- 👯 개발관련 토론과 논의는 언제나 환영입니다.
+- 🤖 주 사용언어는 Scala, Python 입니다.
+- ☀️ 주 사용하는 곳은 Slack, Github, Git 입니다.
 
-<h3 align="center"> 📋 Used </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-</p>
-<br>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobyoo&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
