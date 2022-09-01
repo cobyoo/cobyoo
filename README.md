@@ -3,11 +3,11 @@
 특히 아파치 스파크를 활용한 전처리 및 대용량 데이터를 빠르게 처리하는 개발에 강점을 가지고 있습니다.
 ```
 
-- 아파치 스파크로 대용량 데이터를 효과적으로 빠르게 처리하는 개발하고 있습니다.
-- 최근에는 Apache Kafka와 Apache Ignite를 공부하고 있습니다.
+- <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/> 사용하여 대용량 데이터를 효과적으로 빠르게 처리하는 개발하고 있습니다.
+- <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> 를 공부하고 있습니다.
 - 개발관련 토론과 논의는 언제나 환영입니다.
-- 주 사용언어는 Scala, Python 입니다.
-- 주 사용하는 곳은 Slack, Github, Git 입니다.
+- 주 사용언어는 <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 입니다.
+- 주 사용하는 곳은 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 입니다.
 
 
 
